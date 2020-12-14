@@ -352,6 +352,9 @@ HAProxy tools for HPACK decoding, TCP testing, debugging and more
 %attr(0755,root,root) %{_bindir}/tcploop
 
 %changelog
+* Mon Dec 14 2020 Matouš Jan Fialka <mjf@mjf.cz> - 2.3.2-1.mjf.el7.centos
+- Initial packaging of HAProxy v2.3.2 with OpenSSL v1.1.1i
+
 * Thu Nov 19 2020 Matouš Jan Fialka <mjf@mjf.cz> - 2.3.1-1.mjf.el7.centos
 - Initial packaging of HAProxy v2.3.1 with OpenSSL v1.1.1h
 
