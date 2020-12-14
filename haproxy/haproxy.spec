@@ -16,7 +16,7 @@
 
 # haproxy
 %define haproxy_version     2.3
-%define haproxy_release     1
+%define haproxy_release     2
 %define haproxy_user        haproxy
 %define haproxy_uid         188
 %define haproxy_group       %{haproxy_user}
@@ -29,7 +29,7 @@
 %define haproxy_rundir      /run/haproxy
 
 # library
-%define openssl_version 1.1.1h
+%define openssl_version 1.1.1i
 
 # package information
 Name:      %{package_name}
