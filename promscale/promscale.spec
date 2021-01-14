@@ -3,7 +3,7 @@
 # Released under the terms of the "MIT License"
 
 Name            : promscale
-Version         : 0.1.2
+Version         : 0.1.4
 Release         : 1%{?dist}
 Group           : Network Servers
 License         : Apache License 2.0
